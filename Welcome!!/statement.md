@@ -1,0 +1,1 @@
+The flag is "`TWCTF{Welcome_To_TW_MMACTF!!}`".

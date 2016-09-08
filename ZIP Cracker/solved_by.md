@@ -1,0 +1,37 @@
+# ZIP Cracker
+
+## Flag #1
+
+|Team|Submission Time|
+|------------|------------------|
+|217|2016/09/03 15:25:55 UTC|
+|dodododo|2016/09/03 16:10:18 UTC|
+|scryptos|2016/09/03 16:32:32 UTC|
+|Peenoise|2016/09/03 16:57:44 UTC|
+|blue&#45;lotus|2016/09/03 17:33:26 UTC|
+|Just Hit the Core|2016/09/03 17:56:19 UTC|
+|xil&#46;se|2016/09/03 17:57:56 UTC|
+|dcua|2016/09/03 18:52:27 UTC|
+|soma|2016/09/03 20:38:09 UTC|
+|Mammon Machine|2016/09/03 20:39:23 UTC|
+|CS16|2016/09/03 21:39:06 UTC|
+|OpenToAll|2016/09/03 21:58:34 UTC|
+|Bushwhackers|2016/09/03 22:09:48 UTC|
+|LC&#47;BC|2016/09/04 00:54:08 UTC|
+|bi0s|2016/09/04 03:35:22 UTC|
+|n0de|2016/09/04 03:52:24 UTC|
+|PFX|2016/09/04 06:48:56 UTC|
+|PwnThyBytes|2016/09/04 10:35:30 UTC|
+|Antichat|2016/09/04 11:13:21 UTC|
+|We&#95;0wn&#95;Y0u|2016/09/04 11:46:29 UTC|
+|Public Security Section 9|2016/09/04 11:52:28 UTC|
+|LeaveCat|2016/09/04 15:27:19 UTC|
+|ASIS|2016/09/04 15:51:45 UTC|
+|BabyPhD|2016/09/04 17:47:24 UTC|
+|int3pids|2016/09/04 18:34:10 UTC|
+|Dragon Sector|2016/09/04 18:36:43 UTC|
+|MeePwn|2016/09/04 18:38:20 UTC|
+|PwnPP4fun|2016/09/04 19:03:51 UTC|
+|KITCTF|2016/09/04 19:27:52 UTC|
+|0x90r00t|2016/09/04 23:05:34 UTC|
+

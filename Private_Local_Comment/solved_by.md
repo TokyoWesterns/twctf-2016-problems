@@ -1,0 +1,117 @@
+# Private / Local / Comment
+
+## Flag #1
+
+|Team|Submission Time|
+|------------|------------------|
+|katagaitai|2016/09/03 07:34:21 UTC|
+|217|2016/09/03 07:47:34 UTC|
+|shinh|2016/09/03 08:08:29 UTC|
+|BabyPhD|2016/09/03 09:00:35 UTC|
+|scryptos|2016/09/03 09:30:57 UTC|
+|TSG|2016/09/03 09:43:40 UTC|
+|superflip|2016/09/03 10:14:13 UTC|
+|blue&#45;lotus|2016/09/03 11:51:43 UTC|
+|Pandemic|2016/09/03 12:40:55 UTC|
+|Peenoise|2016/09/03 12:53:40 UTC|
+|KITCTF|2016/09/03 12:54:25 UTC|
+|Abracada|2016/09/03 13:51:21 UTC|
+|PwnThyBytes|2016/09/03 14:23:35 UTC|
+|CS16|2016/09/03 14:33:53 UTC|
+|Sw1ssFr13nds|2016/09/03 14:53:13 UTC|
+|NaruseJun|2016/09/03 15:15:57 UTC|
+|Shellphish|2016/09/03 15:23:36 UTC|
+|RinGorilla|2016/09/03 15:24:01 UTC|
+|Bushwhackers|2016/09/03 17:17:48 UTC|
+|CorpOfHack|2016/09/03 19:16:13 UTC|
+|p4|2016/09/03 19:38:05 UTC|
+|smoke leet everyday|2016/09/03 20:28:26 UTC|
+|int3pids|2016/09/03 21:22:14 UTC|
+|Public Security Section 9|2016/09/03 21:36:35 UTC|
+|dcua|2016/09/03 23:10:54 UTC|
+|Dragon Sector|2016/09/03 23:37:48 UTC|
+|OpenToAll|2016/09/03 23:49:42 UTC|
+|xil&#46;se|2016/09/03 23:53:15 UTC|
+|soma|2016/09/03 23:53:40 UTC|
+|Mammon Machine|2016/09/04 00:24:02 UTC|
+|noTeamName|2016/09/04 03:18:33 UTC|
+|TheGoonies|2016/09/04 03:48:57 UTC|
+|indo8|2016/09/04 04:05:22 UTC|
+|PPP|2016/09/04 04:07:27 UTC|
+|kcs|2016/09/04 05:02:09 UTC|
+|We&#95;0wn&#95;Y0u|2016/09/04 09:09:23 UTC|
+|Tasteless|2016/09/04 09:52:56 UTC|
+|candies|2016/09/04 10:03:06 UTC|
+|LC&#47;BC|2016/09/04 12:51:32 UTC|
+|BambooFox|2016/09/04 15:10:37 UTC|
+|ASIS|2016/09/04 15:24:35 UTC|
+|v0rt3x|2016/09/04 18:48:19 UTC|
+|JaGoTu|2016/09/04 20:55:16 UTC|
+|seven|2016/09/04 22:11:46 UTC|
+|ISITDTU|2016/09/04 23:34:01 UTC|
+|bi0s|2016/09/04 23:39:31 UTC|
+|CTF&#45;infinit|2016/09/04 23:42:39 UTC|
+|knightsec|2016/09/04 23:59:04 UTC|
+
+## Flag #2
+
+|Team|Submission Time|
+|------------|------------------|
+|NYUSEC|2016/09/03 05:11:23 UTC|
+|dodododo|2016/09/03 05:33:31 UTC|
+|TheGoonies|2016/09/03 06:15:25 UTC|
+|Samurai|2016/09/03 06:22:05 UTC|
+|217|2016/09/03 07:09:42 UTC|
+|shinh|2016/09/03 08:03:25 UTC|
+|ASIS|2016/09/03 10:21:00 UTC|
+|superflip|2016/09/03 11:08:55 UTC|
+|scryptos|2016/09/03 11:21:30 UTC|
+|KITCTF|2016/09/03 12:17:06 UTC|
+|RinGorilla|2016/09/03 12:36:26 UTC|
+|NaruseJun|2016/09/03 13:02:45 UTC|
+|CS16|2016/09/03 14:53:49 UTC|
+|BabyPhD|2016/09/03 16:21:15 UTC|
+|Bushwhackers|2016/09/03 17:17:17 UTC|
+|PwnThyBytes|2016/09/03 17:47:21 UTC|
+|Dystopian Narwhals|2016/09/03 18:03:26 UTC|
+|Public Security Section 9|2016/09/03 18:04:48 UTC|
+|Tasteless|2016/09/03 18:39:16 UTC|
+|CorpOfHack|2016/09/03 19:23:41 UTC|
+|int3pids|2016/09/03 20:53:13 UTC|
+|Pandemic|2016/09/03 23:14:55 UTC|
+|PPP|2016/09/03 23:54:24 UTC|
+|Dragon Sector|2016/09/04 00:32:04 UTC|
+|We&#95;0wn&#95;Y0u|2016/09/04 01:04:47 UTC|
+|OpenToAll|2016/09/04 02:34:22 UTC|
+|Mammon Machine|2016/09/04 05:38:55 UTC|
+|BambooFox|2016/09/04 18:59:00 UTC|
+|p4|2016/09/04 19:25:53 UTC|
+|LC&#47;BC|2016/09/04 20:53:44 UTC|
+|JaGoTu|2016/09/04 21:42:14 UTC|
+|knightsec|2016/09/04 23:58:32 UTC|
+
+## Flag #3
+
+|Team|Submission Time|
+|------------|------------------|
+|dodododo|2016/09/03 05:45:16 UTC|
+|217|2016/09/03 07:22:03 UTC|
+|shinh|2016/09/03 08:11:29 UTC|
+|scryptos|2016/09/03 13:50:20 UTC|
+|NaruseJun|2016/09/03 15:51:50 UTC|
+|Bushwhackers|2016/09/03 17:17:36 UTC|
+|PwnThyBytes|2016/09/03 17:54:00 UTC|
+|KITCTF|2016/09/03 18:01:00 UTC|
+|Dystopian Narwhals|2016/09/03 18:03:44 UTC|
+|Public Security Section 9|2016/09/03 18:05:01 UTC|
+|ASIS|2016/09/03 18:18:46 UTC|
+|Tasteless|2016/09/03 18:40:37 UTC|
+|TheGoonies|2016/09/03 21:00:46 UTC|
+|Dragon Sector|2016/09/04 01:08:27 UTC|
+|We&#95;0wn&#95;Y0u|2016/09/04 01:15:05 UTC|
+|OpenToAll|2016/09/04 02:53:37 UTC|
+|CS16|2016/09/04 06:22:16 UTC|
+|Pandemic|2016/09/04 18:55:22 UTC|
+|p4|2016/09/04 19:34:47 UTC|
+|LC&#47;BC|2016/09/04 22:23:16 UTC|
+

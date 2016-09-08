@@ -1,0 +1,36 @@
+# shadow
+
+## Flag #1
+
+|Team|Submission Time|
+|------------|------------------|
+|blue&#45;lotus|2016/09/03 07:48:53 UTC|
+|Tasteless|2016/09/03 10:24:03 UTC|
+|PwnThyBytes|2016/09/03 10:52:49 UTC|
+|scryptos|2016/09/03 11:42:14 UTC|
+|mgking|2016/09/03 12:06:03 UTC|
+|Public Security Section 9|2016/09/03 13:07:04 UTC|
+|PPP|2016/09/03 13:42:42 UTC|
+|217|2016/09/03 14:58:03 UTC|
+|BambooFox|2016/09/03 15:22:33 UTC|
+|katagaitai|2016/09/03 16:55:40 UTC|
+|SoySauce|2016/09/03 18:13:09 UTC|
+|p4|2016/09/03 19:15:46 UTC|
+|Samurai|2016/09/03 20:48:56 UTC|
+|HackingForSoju|2016/09/03 22:32:38 UTC|
+|MeePwn|2016/09/03 23:12:04 UTC|
+|OpenToAll|2016/09/04 01:08:28 UTC|
+|Blue&#45;Whale|2016/09/04 03:18:49 UTC|
+|Shellphish|2016/09/04 05:47:59 UTC|
+|kasec|2016/09/04 05:49:06 UTC|
+|0daysober|2016/09/04 08:02:43 UTC|
+|dcua|2016/09/04 09:29:19 UTC|
+|LC&#47;BC|2016/09/04 12:24:41 UTC|
+|&#33;SpamAndHex|2016/09/04 13:12:02 UTC|
+|yonghwi|2016/09/04 14:01:14 UTC|
+|dodododo|2016/09/04 14:50:41 UTC|
+|KITCTF|2016/09/04 15:47:38 UTC|
+|BabyPhD|2016/09/04 19:32:15 UTC|
+|GeeksSpeak|2016/09/04 19:42:38 UTC|
+|1064CBread|2016/09/04 23:04:16 UTC|
+

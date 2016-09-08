@@ -1,0 +1,55 @@
+# Poems
+
+## Flag #1
+
+|Team|Submission Time|
+|------------|------------------|
+|mage|2016/09/04 05:56:54 UTC|
+|dodododo|2016/09/04 05:57:37 UTC|
+|BabyPhD|2016/09/04 07:28:17 UTC|
+|Peenoise|2016/09/04 08:25:15 UTC|
+|Blue&#45;Whale|2016/09/04 09:20:40 UTC|
+|blue&#45;lotus|2016/09/04 09:32:04 UTC|
+|scryptos|2016/09/04 09:55:25 UTC|
+|217|2016/09/04 10:20:35 UTC|
+|MeePwn|2016/09/04 10:23:12 UTC|
+|yonghwi|2016/09/04 10:34:15 UTC|
+|LC&#47;BC|2016/09/04 10:46:06 UTC|
+|PwnThyBytes|2016/09/04 11:01:32 UTC|
+|int3pids|2016/09/04 11:11:30 UTC|
+|YOKAYA&#45;N|2016/09/04 12:00:02 UTC|
+|GoldenEagles|2016/09/04 12:07:20 UTC|
+|Ridge Racer|2016/09/04 12:12:34 UTC|
+|PPP|2016/09/04 12:47:01 UTC|
+|Public Security Section 9|2016/09/04 12:47:57 UTC|
+|yharima|2016/09/04 12:55:09 UTC|
+|We&#95;0wn&#95;Y0u|2016/09/04 13:06:50 UTC|
+|ISITDTU|2016/09/04 13:48:59 UTC|
+|KITCTF|2016/09/04 13:54:44 UTC|
+|superflip|2016/09/04 14:23:42 UTC|
+|Insanity|2016/09/04 14:52:17 UTC|
+|Doflamingo|2016/09/04 14:57:41 UTC|
+|kad|2016/09/04 15:10:46 UTC|
+|mgking|2016/09/04 15:10:58 UTC|
+|dcua|2016/09/04 15:55:05 UTC|
+|Dragon Sector|2016/09/04 17:13:51 UTC|
+|ELT|2016/09/04 17:16:45 UTC|
+|p4|2016/09/04 17:23:19 UTC|
+|LeaveCat|2016/09/04 17:29:35 UTC|
+|0x90r00t|2016/09/04 17:42:25 UTC|
+|Just Hit the Core|2016/09/04 17:44:42 UTC|
+|0daysober|2016/09/04 17:48:08 UTC|
+|Blaklis|2016/09/04 17:54:59 UTC|
+|Fourchette Bombe|2016/09/04 17:56:56 UTC|
+|ASIS|2016/09/04 18:08:35 UTC|
+|OpenToAll|2016/09/04 18:22:55 UTC|
+|Snatch The Root|2016/09/04 18:31:02 UTC|
+|Come to Try Fortune|2016/09/04 18:37:36 UTC|
+|Bushwhackers|2016/09/04 18:54:57 UTC|
+|bi0s|2016/09/04 19:09:35 UTC|
+|katagaitai|2016/09/04 19:26:52 UTC|
+|Samurai|2016/09/04 19:32:33 UTC|
+|CS16|2016/09/04 21:09:43 UTC|
+|indo8|2016/09/04 21:55:57 UTC|
+|shinh|2016/09/04 23:48:25 UTC|
+
