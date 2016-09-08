@@ -1,0 +1,1 @@
+[これ](https://twctf7qygt6ujk.azureedge.net/uploads/glance.gif-994bd85cd3c2f37c1cd1d520a506abbbe459ac7dc2fedd39bf04c99a04abcb9f)は電車のドアの隙間から見た光景です．
