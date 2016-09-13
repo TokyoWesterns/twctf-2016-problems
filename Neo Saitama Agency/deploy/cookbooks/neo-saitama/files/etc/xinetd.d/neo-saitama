@@ -1,0 +1,29 @@
+service neo-saitama-alice
+{
+    socket_type     = stream
+    type            = UNLISTED
+    user            = neo-saitama
+    port            = 41534
+    server          = /home/neo-saitama/alice.sh
+    wait            = no
+}
+service neo-saitama-bob
+{
+    socket_type     = stream
+    type            = UNLISTED
+    user            = neo-saitama
+    port            = 41535
+    server          = /home/neo-saitama/bob.sh
+    wait            = no
+}
+service neo-saitama-carol
+{
+    socket_type     = stream
+    type            = UNLISTED
+    user            = neo-saitama
+    port            = 41536
+    server          = /home/neo-saitama/carol.sh
+    wait            = no
+}
+
+
