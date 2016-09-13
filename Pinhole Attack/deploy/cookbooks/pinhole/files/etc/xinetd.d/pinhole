@@ -1,0 +1,10 @@
+service pinhole
+{
+    socket_type     = stream
+    type            = UNLISTED
+    user            = pinhole
+    port            = 23464
+    server          = /home/pinhole/server.sh
+    wait            = no
+}
+
