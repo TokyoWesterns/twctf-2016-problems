@@ -1,0 +1,19 @@
+Vagrant.configure(2) do |config|
+  config.vm.hostname = "hastur-deploy"
+  config.vm.box = "ubuntu/trusty32"
+  config.vm.provider "virtualbox" do |vb|
+    vb.customize [
+      "modifyvm", :id,
+      "--memory", "1024",
+      "--paravirtprovider", "kvm", # for linux guest
+      "--cpus", "2",
+      "--ioapic", "on",
+    ]
+  end
+  config.vm.network "forwarded_port", guest: 31178, host: 31178
+  config.vm.network "forwarded_port", guest: 31179, host: 31179
+  
+  config.vm.provision "shell", inline: <<-SHELL
+    sudo apt-get update
+  SHELL
+end

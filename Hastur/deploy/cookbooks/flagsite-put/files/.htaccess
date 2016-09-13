@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} ^/flag
+RewriteRule ^.*$ https://hastur.chal.ctf.westerns.tokyo:31179%{REQUEST_URI} [R,L]
