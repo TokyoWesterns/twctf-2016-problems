@@ -1,0 +1,155 @@
+.TH WHICH 1
+.rn RS Rs
+.de RS
+.na
+.nf
+.Rs
+..
+.rn RE Re
+.de RE
+.Re
+.fi
+.ad
+..
+.de Sx
+.PP
+.ne \\$1
+.RS
+..
+.de Ex
+.RE
+.PP
+..
+.na
+.SH NAME
+which \- shows the full path of (shell) commands.
+.SH SYNOPSIS
+.B which
+[options] [\-\-] programname [...]
+.SH DESCRIPTION
+\fBWhich\fR takes one or more arguments. For each of its arguments
+it prints to stdout the full path of the executables
+that would have been executed when this argument had been
+entered at the shell prompt. It does this by searching
+for an executable or script in the directories listed in
+the environment variable \fBPATH\fR using the same algorithm as \fBbash(1)\fR.
+
+This man page is generated from the file \fIwhich.texinfo\fR.
+.SH OPTIONS
+
+.TP 4
+.B --all\fR, \fB-a\fR
+Print all matching executables in \fBPATH\fR, not just the first.
+.TP
+.B --read-alias\fR, \fB-i\fR
+Read aliases from stdin, reporting matching ones on
+stdout. This is useful in combination with using an
+alias for which itself. For example
+.br
+.B 
+alias which=\'alias | which -i\'\fR.
+.TP
+.B --skip-alias\fR
+Ignore option \`--read-alias\', if any. This is useful to
+explicity search for normal binaries, while using
+the \`--read-alias\' option in an alias or function for which.
+.TP
+.B --read-functions\fR
+Read shell function definitions from stdin, reporting matching
+ones on stdout. This is useful in combination with using a shell
+function for which itself.  For example:
+.br
+.B 
+which() { declare -f | which --read-functions $@ }
+.br
+export -f which\fR
+.TP
+.B --skip-functions\fR
+Ignore option \`--read-functions\', if any. This is useful to
+explicity search for normal binaries, while using
+the \`--read-functions\' option in an alias or function for which.
+.TP
+.B --skip-dot\fR
+Skip directories in \fBPATH\fR that start with a dot.
+.TP
+.B --skip-tilde\fR
+Skip directories in \fBPATH\fR that start with a tilde and
+executables which reside in the \fBHOME\fR directory.
+.TP
+.B --show-dot\fR
+If a directory in \fBPATH\fR starts with a dot and a matching
+executable was found for that path, then print
+"./programname" rather than the full path.
+.TP
+.B --show-tilde\fR
+Output a tilde when a directory matches the \fBHOME\fR
+directory. This option is ignored when which is
+invoked as root.
+.TP
+.B --tty-only\fR
+Stop processing options on the right if not on tty.
+.TP
+.B --version,-v,-V\fR
+Print version information on standard output then exit
+successfully.
+.TP
+.B --help\fR
+Print usage information on standard output then exit
+successfully.
+.SH RETURN VALUE
+\fBWhich\fR returns the number of failed arguments, or -1 when
+no \`programname\' was given.
+.SH EXAMPLE
+The recommended way to use this utility is by adding an alias (C shell)
+or shell function (Bourne shell) for \fBwhich\fR like the following:
+
+[ba]sh:
+
+.in +5
+.nf
+.na
+which ()
+{
+  (alias; declare -f) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@
+}
+export -f which
+.in -5
+.ad
+.fi
+
+[t]csh:
+
+.in +5
+.nf
+.na
+alias which \'alias | /usr/bin/which --tty-only --read-alias --show-dot --show-tilde\'
+.in -5
+.ad
+.fi
+
+This will print the readable ~/ and ./ when starting which
+from your prompt, while still printing the full path when
+used from a script:
+
+.in +5
+.nf
+.na
+> which q2
+~/bin/q2
+> echo \`which q2\`
+/home/carlo/bin/q2
+.in -5
+.ad
+.fi
+
+.SH BUGS
+The \fBHOME\fR directory is determined by looking for the \fBHOME\fR
+environment variable, which aborts when this variable
+doesn\'t exist.  \fBWhich\fR will consider two equivalent directories
+to be different when one of them contains a path
+with a symbolic link.
+.SH AUTHOR
+.br
+Carlo Wood <carlo@gnu.org>
+.SH "SEE ALSO"
+\fBbash(1)\fR
