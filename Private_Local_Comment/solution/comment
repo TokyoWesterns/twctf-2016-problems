@@ -1,0 +1,1 @@
+ObjectSpace.each_object{|a|/TWCTF\{.+}/=~a.to_s&&puts(a)}
